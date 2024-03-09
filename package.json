@@ -1,0 +1,21 @@
+{
+  "name": "bengali-number-to-word-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "nyc": "^14.1.1",
+    "number-to-words-in-bengali": "^1.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/busiyil/bengali-number-to-word-converter.git"
+  }
+}
